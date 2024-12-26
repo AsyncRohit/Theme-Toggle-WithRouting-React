@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#dark{
+    background-color: rgb(8, 8, 65);
+    color: skyblue;
+}
+
+#light{
+    background-color:skyblue;
+    color: rgb(8, 8, 65);
+}
